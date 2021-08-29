@@ -41,5 +41,5 @@ Open-Sourcing all of my Machine Learning tutorials. Please use jupyter notebooks
 # Kaggle Notebooks
 
 ## Black-Friday
-https://www.kaggle.com/aayushkubba/black-friday-python-basics
-https://www.kaggle.com/aayushkubba/black-friday-sales-prediction
+        https://www.kaggle.com/aayushkubba/black-friday-python-basics
+        https://www.kaggle.com/aayushkubba/black-friday-sales-prediction
